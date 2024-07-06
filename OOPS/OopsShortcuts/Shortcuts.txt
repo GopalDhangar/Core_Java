@@ -1,0 +1,1 @@
+Anonymous(NameLess object)->new class Name().mathod name(20,40);
